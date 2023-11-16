@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm ronz or Riquelme Oliveira from Cajazeiras, Brazil.<br><br>- 🔭 I’m working as trainee in a Junior Enterprise<br>- 📚 I'm currently learning somo programming languages<br>- ⚡In my free time I code and study a little more</p>
+<p align="left">I'm ronz or Riquelme Oliveira from Cajazeiras, Brazil.<br><br>- 🔭 I’m working as trainee in a Junior Enterprise<br>- 📚 I'm currently learning some programming languages<br>- ⚡In my free time I code and study a little more</p>
 
 ###
 
